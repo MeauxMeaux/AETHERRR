@@ -956,7 +956,7 @@
         {
          "columns":20,
          "firstgid":257,
-         "image":"..\/Tilesets\/grass.png",
+         "image":"grass.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -969,7 +969,7 @@
         {
          "columns":32,
          "firstgid":657,
-         "image":"..\/Tilesets\/Atlas2\/build_atlas.png",
+         "image":"build_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1154,7 +1154,7 @@
         {
          "columns":7,
          "firstgid":1681,
-         "image":"..\/Tilesets\/orangetrees.png",
+         "image":"orangetrees.png",
          "imageheight":128,
          "imagewidth":224,
          "margin":0,
@@ -1420,7 +1420,7 @@
         {
          "columns":16,
          "firstgid":1709,
-         "image":"..\/Tilesets\/trees_plants_rocks.png",
+         "image":"trees_plants_rocks.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1433,7 +1433,7 @@
         {
          "columns":16,
          "firstgid":1965,
-         "image":"..\/Tilesets\/trees.png",
+         "image":"trees.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1456,7 +1456,7 @@
         {
          "columns":16,
          "firstgid":2221,
-         "image":"..\/Tilesets\/retrowave.png",
+         "image":"retrowave.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1469,7 +1469,7 @@
         {
          "columns":16,
          "firstgid":2477,
-         "image":"..\/Tilesets\/neotiles.png",
+         "image":"neotiles.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1482,7 +1482,7 @@
         {
          "columns":16,
          "firstgid":2733,
-         "image":"..\/Tilesets\/living-room-tilec.png",
+         "image":"living-room-tilec.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
